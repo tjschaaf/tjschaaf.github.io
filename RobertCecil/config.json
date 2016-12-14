@@ -8,9 +8,9 @@
     "text": "TJ Schaaf"
   },
   "text": {
-    "more": "This is an egocentric network analyzing the role Robert Cecil had in connecting all the actors we have looked at so far whilst the Gunpowder Plot is developing and being put into action. Gold nodes are politicians and royalty, green nodes are the Catholic relatives of Francis Tresham, red nodes are Jesuit priests, and blue nodes are the thirteen conspirators in the Plot. The size of the node relates to the eigenvector centrality value, meaning the larger the node is, the more important it is. As the figure shows us, Robert Cecil has the second highest eigenvector centrality, second only to King James I. As this is in 1605, Queen Elizabeth I has since died, so her importance has diminished. Robert Cecil is the piece that connects all the dots between the different concentrations in the graph together, so it is easy to understand why the public viewed him as an evil actor working behind the scenes. ",
-    "intro": "This is a graph displaying all the major players in the Gunpowder Plot and their interconnectedness with relation to Robert Cecil.",
-    "title": "Robert Cecil Eigenvector Centrality Graph"
+    "more": "This network is an egocentric network around Robert Cecil, analyzing the role he had in connecting all the actors we have looked at so far whilst the Gunpowder Plot is developing and being put into action. Gold nodes are politicians and royalty, green nodes are the Catholic Lords (relatives of Francis Tresham), red nodes are Jesuit priests, and blue nodes are the thirteen conspirators in the Plot. The size of the node relates to the eigenvector centrality value, meaning the larger the node is, the more important it is. As the figure shows us, Robert Cecil has the second highest eigenvector centrality, second only to King James I. As this is in 1605, Queen Elizabeth I is dead, so her importance has diminished. Robert Cecil is the piece that connects all the dots between the different concentrations in the graph together, so it is easy to understand why the public viewed him as an evil actor working behind the scenes. He happened to be connected to all the different network densities and it fits perfectly that he was the maestro of the plot.",
+    "intro": "This egocentric network around Robert Cecil displays eigenvector centrality. ",
+    "title": "Robert Cecil Egocentric Network"
   },
   "legend": {
     "edgeLabel": "",
